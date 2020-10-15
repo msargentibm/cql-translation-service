@@ -44,12 +44,10 @@
       <artifactId>resteasy-jaxrs</artifactId>
       <version>3.9.0.Final</version>
     </dependency>
-    <!-- uncomment this to get JSON support:
      <dependency>
         <groupId>org.glassfish.jersey.media</groupId>
         <artifactId>jersey-media-moxy</artifactId>
     </dependency>
-    -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
