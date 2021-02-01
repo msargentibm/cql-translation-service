@@ -165,7 +165,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/mtsargentibm/cql-translation-service</url>
+      <url>https://maven.pkg.github.com/msargentibm/cql-translation-service</url>
     </repository>
   </distributionManagement>
 </project>
