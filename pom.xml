@@ -6,7 +6,7 @@
   <groupId>com.sargent.test.fake</groupId>
   <artifactId>cqlTranslationServer</artifactId>
   <packaging>jar</packaging>
-  <version>1.4.9</version>
+  <version>1.5.1-SNAPSHOT</version>
   <name>cqlTranslationServer</name>
 
   <repositories>
