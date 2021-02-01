@@ -3,7 +3,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.mitre.bonnie</groupId>
+  <groupId>com.sargent.test.fake</groupId>
   <artifactId>cqlTranslationServer</artifactId>
   <packaging>jar</packaging>
   <version>1.4.9</version>
