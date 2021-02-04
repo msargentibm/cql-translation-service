@@ -11,11 +11,6 @@
 
   <repositories>
     <repository>
-      <id>sonatype-public</id>
-      <name>Sonatype Public</name>
-      <url>https://oss.sonatype.org/content/groups/public/</url>
-    </repository>
-    <repository>
       <id>cql.releases</id>
       <name>CQL Framework and Engine Releases</name>
       <url>https://oss.sonatype.org/content/repositories/releases</url>
