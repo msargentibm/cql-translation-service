@@ -11,14 +11,19 @@
 
   <repositories>
     <repository>
+      <id>cql.snapshots</id>
+      <name>CQL Framework and Engine Snapshots</name>
+      <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+    </repository>
+    <repository>
       <id>cql.releases</id>
       <name>CQL Framework and Engine Releases</name>
       <url>https://oss.sonatype.org/content/repositories/releases</url>
     </repository>
     <repository>
-      <id>cql.snapshots</id>
-      <name>CQL Framework and Engine Snapshots</name>
-      <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+      <id>github</id>
+      <name>GitHub Alvearie Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/Alvearie/quality-measure-and-cohort-service</url>
     </repository>
   </repositories>
 
